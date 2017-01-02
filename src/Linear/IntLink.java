@@ -9,6 +9,7 @@ public class IntLink {
     public int num;
     public IntLink next;
     public IntLink xyz;
+    public String TestChanges="Tested Successfully";
 
     public IntLink(int num,IntLink next)
     {
