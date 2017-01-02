@@ -10,6 +10,8 @@ public class IntLink {
     public IntLink next;
     public IntLink xyz;
     public String TestChanges="Tested Successfully";
+    public String TestChanges1="Tested1 Successfully1";
+
 
     public IntLink(int num,IntLink next)
     {
