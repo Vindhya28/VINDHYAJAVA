@@ -8,6 +8,7 @@ public class IntLink {
 
     public int num;
     public IntLink next;
+    public IntLink xyz;
 
     public IntLink(int num,IntLink next)
     {
