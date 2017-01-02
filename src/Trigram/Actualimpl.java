@@ -8,6 +8,7 @@ import java.util.*;
 public class Actualimpl
 {
     String Story;
+    int edit;
 
     //Splitting Text
     public Actualimpl(String line)
