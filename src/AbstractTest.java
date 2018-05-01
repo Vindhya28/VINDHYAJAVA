@@ -19,7 +19,7 @@ abstract class ab1
 {
     int a;
     void disp()
-    {System.out.println("Abstract Class 1");}
+    {System.out.println("Abstract Class 2");}
     abstract void dispab1();
 }
 
